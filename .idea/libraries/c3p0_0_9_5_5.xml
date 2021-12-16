@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/propertyDemo/web/WEB-INF/lib/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/propertyDemo/web/WEB-INF/lib/c3p0-oracle-thin-extras-0.9.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/propertyDemo/web/WEB-INF/lib/fastjson-1.2.75.jar!/" />
+      <root url="jar://$PROJECT_DIR$/propertyDemo/web/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/propertyDemo/web/WEB-INF/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/propertyDemo/web/WEB-INF/lib/mchange-commons-java-0.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/propertyDemo/web/WEB-INF/lib/mysql-connector-java-5.1.25-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/propertyDemo/web/WEB-INF/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
